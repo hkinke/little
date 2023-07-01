@@ -3,7 +3,7 @@
 module Main where
 
 import SDL
-import Foreign.C.Types
+import Foreign.C.Types (CInt)
 import Control.Monad(when)
 
 
