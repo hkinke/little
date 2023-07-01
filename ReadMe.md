@@ -1,5 +1,5 @@
 # Little
 
-This is very simplified very of Tetris
+This is very simplified of Tetris
 
-![Screen Shot](images/little.jpg)
+![Screen Shot](images/little-half.jpg)
